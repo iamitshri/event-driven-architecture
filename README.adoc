@@ -1,0 +1,2 @@
+== evant-driven-architecture
+Messaging &amp; Event Driven Architecture  Messaging is cool but which one fits my use case. We will look at some popular choices. What do I need to know about Event driven architecture? We will go over this architecture pattern &amp; see its trade offs
