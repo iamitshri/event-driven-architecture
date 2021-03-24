@@ -1,2 +1,33 @@
-== evant-driven-architecture
-Messaging &amp; Event Driven Architecture  Messaging is cool but which one fits my use case. We will look at some popular choices. What do I need to know about Event driven architecture? We will go over this architecture pattern &amp; see its trade offs
+:toc: macro
+:toclevels: 6
+:toc-title: Messaging and Event Driven Architecture
+toc::[]
+== Intro
+Messaging is cool but which one fits my use case. We will look at some popular choices. What do I need to know about Event driven architecture? We will go over this architecture pattern &amp; see its trade offs
+
+== Messaging
+=== Types
+==== Point to Point
+==== Publish & Subscribe
+
+== Event Driven Architecture
+
+=== Event Driven meaning?
+- Compare to traditional relation data, how is an event driven business is different
+
+=== Event Driven Vs Request,Response etc
+
+=== Event driven architecture patterns
+
+=== How do I know my application needs event driven architecture?
+
+=== Suitable Use cases: When to use it?
+
+=== Not so suitable use cases: When not to use it?
+
+=== PROS
+
+=== CONS
+
+
+
