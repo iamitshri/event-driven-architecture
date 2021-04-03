@@ -2,6 +2,8 @@
 
 ** https://www.rabbitmq.com/tutorials/amqp-concepts.html
 
+- https://microservices.io/patterns/data/event-driven-architecture.html
+- https://microservices.io/patterns/data/saga.html
 
 - Event vs Message
   ** https://bradirby.com/2019/10/difference-between-events-and-messages/
