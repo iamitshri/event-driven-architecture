@@ -1,6 +1,4 @@
-- RabbitMq
 
-** https://www.rabbitmq.com/tutorials/amqp-concepts.html
 
 - https://microservices.io/patterns/data/event-driven-architecture.html
 - https://microservices.io/patterns/data/saga.html
@@ -9,9 +7,6 @@
   ** https://bradirby.com/2019/10/difference-between-events-and-messages/
   ** https://www.reactivemanifesto.org/glossary#Message-Driven
 
-- Kafka: Fastest messaging system
-https://www.confluent.io/blog/kafka-fastest-messaging-system
-https://www.confluent.io/kafka-vs-pulsar/
 
 - https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”? by Martin Fowler]
 - https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences[The Many Meanings of Event-Driven Architecture • Martin Fowler]
@@ -21,4 +16,12 @@ https://www.confluent.io/kafka-vs-pulsar/
 - https://www.amazon.com/dp/B06XPJML5D/ref=cm_sw_em_r_mt_dp_X14NNZZCXF0ZCYNDGWJ3[Chapter 11. Stream Processing from Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann]
 
 
+== Domain Driven Design
+- https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S[Domain-Driven Design Distilled by Vaughn Vernon]
 
+- RabbitMq
+** https://www.rabbitmq.com/tutorials/amqp-concepts.html
+
+- Kafka: Fastest messaging system
+https://www.confluent.io/blog/kafka-fastest-messaging-system
+https://www.confluent.io/kafka-vs-pulsar/
