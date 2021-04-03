@@ -13,7 +13,19 @@ Messaging is cool but which one fits my use case. We will look at some popular c
 == Event Driven Architecture
 
 === Event Driven meaning?
-- Compare to traditional relation data, how is an event driven business is different
+- Compare to traditional request response model, how is an event driven business is different
+
+Producer don’t care how its processed or who process it. 
+Generally, a data format contract exist between producer and consumer.
+
+Event: Generally, a notification of state change. Lightweight, Immutable record with timestamp 
+and details about what happened.
+
+Example of event:
+An example of an event-based model is submitting a bid for a particular item within an online auction. Submitting the bid is not a request made to the system, but rather an event that happens after the current asking price is announced. The system must respond to this event by comparing the bid to others received at the same time to determine who is the current highest bidder.
+
+
+
 
 === Event Driven Vs Request,Response etc
 
