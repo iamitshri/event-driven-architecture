@@ -19,9 +19,19 @@
 == Domain Driven Design
 - https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S[Domain-Driven Design Distilled by Vaughn Vernon]
 
+=== Tools for Async Processing
+
 - RabbitMq
 ** https://www.rabbitmq.com/tutorials/amqp-concepts.html
 
 - Kafka: Fastest messaging system
 https://www.confluent.io/blog/kafka-fastest-messaging-system
 https://www.confluent.io/kafka-vs-pulsar/
+
+* AWS
+-- SQS
+
+-- SNS
+
+-- Kinesis
+
