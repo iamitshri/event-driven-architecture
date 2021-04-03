@@ -25,13 +25,12 @@
 ** https://www.rabbitmq.com/tutorials/amqp-concepts.html
 
 - Kafka: Fastest messaging system
-https://www.confluent.io/blog/kafka-fastest-messaging-system
-https://www.confluent.io/kafka-vs-pulsar/
+- https://www.confluent.io/blog/kafka-fastest-messaging-system
+- https://www.confluent.io/kafka-vs-pulsar/
 
-* AWS
--- SQS
 
--- SNS
+- SQS
+- SNS
+- Kinesis
 
--- Kinesis
 
