@@ -1,26 +1,22 @@
-https://www.rabbitmq.com/tutorials/amqp-concepts.html
+- RabbitMq
 
-GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler
-https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences
-
-Event vs Message
-https://bradirby.com/2019/10/difference-between-events-and-messages/
-https://www.reactivemanifesto.org/glossary#Message-Driven
+** https://www.rabbitmq.com/tutorials/amqp-concepts.html
 
 
-Kafka: Fastest messaging system
+- Event vs Message
+  ** https://bradirby.com/2019/10/difference-between-events-and-messages/
+  ** https://www.reactivemanifesto.org/glossary#Message-Driven
+
+- Kafka: Fastest messaging system
 https://www.confluent.io/blog/kafka-fastest-messaging-system
 https://www.confluent.io/kafka-vs-pulsar/
 
-https://martinfowler.com/articles/201701-event-driven.html
+- https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”? by Martin Fowler]
+- https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences[The Many Meanings of Event-Driven Architecture • Martin Fowler]
 
-=== Books
+- https://www.amazon.com/dp/B0849MPK73/ref=cm_sw_em_r_mt_dp_899S9JECFXEP79C0E1RK[Chapter 14. Event-Driven Architecture Style from Fundamentals of Software Architecture: An Engineering Approach by Mark Richards and Neal Ford]
 
-
-https://www.amazon.com/dp/B0849MPK73/ref=cm_sw_em_r_mt_dp_899S9JECFXEP79C0E1RK[Chapter 14. Event-Driven Architecture Style from Fundamentals of Software Architecture: An Engineering Approach by Mark Richards and Neal Ford]
-
-
-https://www.amazon.com/dp/B06XPJML5D/ref=cm_sw_em_r_mt_dp_X14NNZZCXF0ZCYNDGWJ3[Chapter 11. Stream Processing from Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann]
+- https://www.amazon.com/dp/B06XPJML5D/ref=cm_sw_em_r_mt_dp_X14NNZZCXF0ZCYNDGWJ3[Chapter 11. Stream Processing from Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann]
 
 
 
