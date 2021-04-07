@@ -7,6 +7,8 @@
   ** https://bradirby.com/2019/10/difference-between-events-and-messages/
   ** https://www.reactivemanifesto.org/glossary#Message-Driven
 
+Event Sourcing by Greg Young
+- https://www.youtube.com/watch?v=8JKjvY4etTY&ab_channel=GOTOConferences
 
 - https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”? by Martin Fowler]
 - https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences[The Many Meanings of Event-Driven Architecture • Martin Fowler]
