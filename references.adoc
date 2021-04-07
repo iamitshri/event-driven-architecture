@@ -9,6 +9,7 @@
 
 Event Sourcing by Greg Young
 - https://www.youtube.com/watch?v=8JKjvY4etTY&ab_channel=GOTOConferences
+- https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 
 - https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”? by Martin Fowler]
 - https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences[The Many Meanings of Event-Driven Architecture • Martin Fowler]
