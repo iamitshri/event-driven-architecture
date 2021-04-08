@@ -1,16 +1,13 @@
 
 
-- https://microservices.io/patterns/data/event-driven-architecture.html
-- https://microservices.io/patterns/data/saga.html
-
+=== Architecture on AWS
 - https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb[This is my architecture series on AWS youtube]
+
+=== EDA talks & references
+
 - Event vs Message
   ** https://bradirby.com/2019/10/difference-between-events-and-messages/
   ** https://www.reactivemanifesto.org/glossary#Message-Driven
-
-=== Event Sourcing by Greg Young
-- https://www.youtube.com/watch?v=8JKjvY4etTY&ab_channel=GOTOConferences
-- https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 
 - https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”? by Martin Fowler]
 - https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences[The Many Meanings of Event-Driven Architecture • Martin Fowler]
@@ -19,9 +16,18 @@
 
 - https://www.amazon.com/dp/B06XPJML5D/ref=cm_sw_em_r_mt_dp_X14NNZZCXF0ZCYNDGWJ3[Chapter 11. Stream Processing from Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann]
 
+- https://microservices.io/patterns/data/event-driven-architecture.html
+- https://microservices.io/patterns/data/saga.html
 
-== Domain Driven Design
+
+=== Domain Driven Design
 - https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S[Domain-Driven Design Distilled by Vaughn Vernon]
+
+
+=== Event Sourcing by Greg Young
+- https://www.youtube.com/watch?v=8JKjvY4etTY&ab_channel=GOTOConferences
+- https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
+
 
 === Tools for Async Processing
 
