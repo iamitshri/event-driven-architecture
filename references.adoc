@@ -12,6 +12,8 @@
 - https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”? by Martin Fowler]
 - https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences[The Many Meanings of Event-Driven Architecture • Martin Fowler]
 
+- https://github.com/wmr513/event-driven-patterns[EDA Patterns]
+
 - https://www.amazon.com/dp/B0849MPK73/ref=cm_sw_em_r_mt_dp_899S9JECFXEP79C0E1RK[Chapter 14. Event-Driven Architecture Style from Fundamentals of Software Architecture: An Engineering Approach by Mark Richards and Neal Ford]
 
 - https://www.amazon.com/dp/B06XPJML5D/ref=cm_sw_em_r_mt_dp_X14NNZZCXF0ZCYNDGWJ3[Chapter 11. Stream Processing from Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann]
