@@ -3,12 +3,13 @@
 :toc-title: Messaging and Event Driven Architecture
 toc::[]
 == Intro
-Messaging is cool but which one fits my use case. We will look at some popular choices. What do I need to know about Event driven architecture? We will go over this architecture pattern &amp; see its trade offs
+ What do I need to know about Event driven architecture? We will go over this architecture pattern &amp; see its trade offs
 
 == Messaging
 === Types
 ==== Point to Point
 ==== Publish & Subscribe
+==== Pull vs Push model
 
 == Event Driven Architecture
 
